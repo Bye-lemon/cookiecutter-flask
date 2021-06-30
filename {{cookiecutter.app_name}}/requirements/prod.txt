@@ -2,16 +2,16 @@
 
 # Flask
 Flask==2.0.0
-Werkzeug==2.0.0
+Werkzeug==2.0.1
 click>=7.0
 
 # Database
 Flask-SQLAlchemy==2.5.1
-SQLAlchemy==1.4.15
-psycopg2-binary==2.8.6
+SQLAlchemy==1.4.20
+psycopg2-binary==2.9.1
 
 # Migrations
-Flask-Migrate==2.7.0
+Flask-Migrate==3.0.1
 
 # Forms
 email-validator==1.1.2
